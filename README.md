@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning DSA, Android development and frontend web development
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: [Linkedin]("lol"), Instagram
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **amishaagg/amishaagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
