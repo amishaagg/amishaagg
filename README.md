@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Amisha Aggarwal
 
 - 🌱 I’m currently learning DSA, Android development and frontend web development
 - 👯 I’m looking to collaborate on Android projects
